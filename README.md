@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-with-Deep-Learning-and-Attention-Mechanisms
+This project implements multivariate time series forecasting using LSTM with Bahdanau attention. It compares an attention-based model against a baseline LSTM, applying rigorous preprocessing, hyperparameter tuning, and evaluation. Attention weights are analyzed to interpret which historical time steps most influence predictions.
